@@ -1,6 +1,6 @@
 ## I’m @paul8711-code
 - interested in the Matrix protocol
-- currently learning C++ and Rust
+- currently learning C++
 - Contact: contact@paul8711.com
 
 ### Ecosystem & Languages
