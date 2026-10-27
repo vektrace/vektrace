@@ -1,9 +1,11 @@
-## I’m @vektrace
+## I’m Paul Juranitsch-Klauser
+
 - interested in the Matrix protocol
 - currently learning C++
-- Contact: contact@vektrace.com
+- Contact: <contact@vektrace.com>
 
 ### Ecosystem & Languages
+
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Matrix](https://img.shields.io/badge/matrix-%23000000.svg?&logo=matrix&logoColor=white)
@@ -12,6 +14,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 
 ### Projects & Contributions
+
 - **[meteorite](https://github.com/vektrace/meteorite)** - Fast, Secure & Easy-to-use Matrix client in Rust
 - **[ion-mail](https://github.com/vektrace/ion-mail)** - Mail CLI in Rust supporting all mail functions & OAuth2 login
 - **[gcode-io](https://github.com/vektrace/gcode-io)** - Fast G-code / RS-274 generator and parser library for Rust
